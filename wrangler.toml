@@ -1,4 +1,0 @@
-name = "alex-short-url"
-main = "./src/server.js"
-compatibility_date = "2025-10-29"
-compatibility_flags = [ "nodejs_compat" ]
